@@ -1,1 +1,1 @@
-# samp-server-browser
+# !this repo is used for hosting only!
